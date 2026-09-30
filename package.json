@@ -1,0 +1,8 @@
+{
+  "name": "copiloto-traffic-proxy",
+  "version": "1.0.0",
+  "description": "Proxy de tráfico TomTom para Copiloto Urbano MX",
+  "main": "proxy.js",
+  "scripts": { "start": "node proxy.js" },
+  "dependencies": { "express": "^4.19.2" }
+}
